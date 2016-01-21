@@ -1,3 +1,3 @@
-React.js Graphs
+# React.js Graphs
 
 ![](app/assets/images/graphs.png)
