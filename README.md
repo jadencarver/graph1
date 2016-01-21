@@ -1,3 +1,3 @@
 React.js Graphs
 
-![](doc/graphs.png)
+![](app/assets/images/graphs.png)
